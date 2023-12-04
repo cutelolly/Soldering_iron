@@ -15,5 +15,4 @@
 电路图
 
 赞助
-![其他类型](https://github.com/cutelolly/Soldering_iron/blob/main/1701708003911.jpg.png)
-
+![其他类型](https://github.com/cutelolly/Soldering_iron/blob/main/1701708003911.jpg)
