@@ -9,6 +9,17 @@
 ####反面
 ![反面](https://github.com/cutelolly/Soldering_iron/blob/main/Bottom%202023-12-03%20085402.png)
 
+![图片](https://github.com/cutelolly/Soldering_iron/blob/main/图片0.png)
+
+![图片](https://github.com/cutelolly/Soldering_iron/blob/main/图片1.png)
+
+![图片](https://github.com/cutelolly/Soldering_iron/blob/main/图片2.png)
+
+![图片](https://github.com/cutelolly/Soldering_iron/blob/main/图片3.png)
+
+![图片](https://github.com/cutelolly/Soldering_iron/blob/main/图片4.png)
+
+
 ####Other
 ![其他类型](https://github.com/cutelolly/Soldering_iron/blob/main/Other%202023-11-20%20121600.png)
 
